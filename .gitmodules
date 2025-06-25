@@ -1,0 +1,3 @@
+[submodule "comrel_MasterFe"]
+	path = comrel_MasterFe
+	url = https://github.com/VenturaAdrian/Comrel_DataAccess.git
